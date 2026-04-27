@@ -1,5 +1,4 @@
 # 🎮 ArcadeHub — Backend Engineering Take-home Assignment
-> **Intern Interview Challenge · Microservices API**
 
 ---
 
